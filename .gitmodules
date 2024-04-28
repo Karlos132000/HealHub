@@ -3,7 +3,3 @@
 	url = https://github.com/abdiladifart/BackEndHealHub
 
 
-[submodule "FrontEndHealHub"]
-	path = FrontEndHealHub
-	url = https://github.com/Karlos132000/FrontEndHealHub
-
